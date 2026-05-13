@@ -1,2 +1,12 @@
-# WordPress-Deployment-Monitoring-System
-A WordPress Deployment &amp; Monitoring System automates the setup, configuration, and release of WordPress environments.  It ensures consistent, repeatable deployments using automation or CI/CD workflows.  The system continuously monitors site uptime, performance, and server health.  
+# my-first-project
+
+## About This Project
+This is my first repository on GitHub. I created it
+to practice uploading and editing files.
+
+## What's Inside
+- README.md — this file
+- project 1-notes.txt — my project notes
+
+## Author
+Made with ❤️ by **priya**
